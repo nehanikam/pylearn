@@ -1,0 +1,6 @@
+def string_len(mylength)
+	return len(mylength)
+
+
+print(string_len("HEllo"))
+
