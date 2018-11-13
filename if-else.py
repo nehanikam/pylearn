@@ -29,7 +29,7 @@ elif a < b :
 else:
 	print "b is less than a"
 
-print "neha is awesome"
+print "neha is freaking awesome"
 
 
 # attempting to make changes in git
